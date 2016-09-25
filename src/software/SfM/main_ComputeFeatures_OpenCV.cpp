@@ -24,6 +24,7 @@
 #include "opencv2/core/eigen.hpp"
 #ifdef USE_OCVSIFT
 #include "opencv2/xfeatures2d.hpp"
+#include "opencv2/videoio.hpp"
 #endif
 
 #include <cstdlib>
